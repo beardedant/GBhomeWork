@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GBhomeWorkOne</string>
+    <string name="hintText">change this text</string>
+    <string name="do_noting_button">do nothing button</string>
 </resources>
