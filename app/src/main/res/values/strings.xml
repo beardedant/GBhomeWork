@@ -2,4 +2,10 @@
     <string name="app_name">GBhomeWorkOne</string>
     <string name="hintText">change this text</string>
     <string name="do_noting_button">do nothing button</string>
+    <string name="user_name">name</string>
+    <string name="helperNameText">Вася Пупкин</string>
+    <string name="enter_number">enter number</string>
+    <string name="enter_email">enter email</string>
+    <string name="helperNumber">+7(123)456 78 90</string>
+    <string name="helperEmail">nomail@mail.net</string>
 </resources>
